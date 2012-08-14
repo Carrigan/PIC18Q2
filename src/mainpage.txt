@@ -1,0 +1,4 @@
+/**
+@mainpage The Carriclock - A PIC18 based word clock
+
+*/
